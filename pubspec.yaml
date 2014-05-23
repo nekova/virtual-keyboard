@@ -1,0 +1,5 @@
+name: virtual_keyboard
+description: A sample virtual keyboard
+dependencies:
+  browser: any
+  polymer: any
