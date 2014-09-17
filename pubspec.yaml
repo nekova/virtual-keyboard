@@ -1,5 +1,4 @@
-name: virtual_keyboard
+name: virtual-keyboard
 description: A sample virtual keyboard
 dependencies:
   browser: any
-  polymer: any

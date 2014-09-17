@@ -5,7 +5,6 @@ class Keyboard {
 
   Keyboard() {
     document.body.onKeyDown.listen((KeyboardEvent e) {
-      //window.alert('${e.keyCode}');
       document.querySelector('#${keys[e.keyCode]}').classes.add('keydown');
     });
     document.body.onKeyUp.listen((KeyboardEvent e) {
