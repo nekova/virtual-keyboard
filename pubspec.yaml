@@ -2,3 +2,4 @@ name: virtual-keyboard
 description: A sample virtual keyboard
 dependencies:
   browser: any
+  hop: any
